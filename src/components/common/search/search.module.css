@@ -1,0 +1,32 @@
+.form {
+  position: relative;
+  width: 470px;
+  height: 58px;
+  margin-right: 70px;
+}
+
+.input, button {
+  border: none;
+  outline: none;
+  border-radius: 8px;
+}
+
+ .input {
+  width: 100%;
+  height: 58px;
+  color: white;
+  background: rgba(196, 196, 196, 0.3);
+  padding-left: 15px;
+  font-size: 26px;
+  border-radius: 6px;
+}
+
+ .lupa {
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 7px;
+  right: 6px;
+  background: url('../../../assets/images/lupa.png');
+  
+}

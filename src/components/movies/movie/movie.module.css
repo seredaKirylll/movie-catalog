@@ -1,0 +1,21 @@
+.movieInner {
+    width: 190px;
+    height: 430px;
+    display: inline-flex;
+    flex-direction: column;
+	padding-left: 20px;
+}
+
+.movieImg {
+    width: 180px;
+    height: 230px;
+    border-radius: 10%;
+}
+
+.description {
+    font-size: 18px;
+    width: 150px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
